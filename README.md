@@ -161,7 +161,12 @@ chrome       235M|gnome-shell  0.2
 chrome       235M|Xorg         0.5
 ```
 
-
-   
+  |  Option  | Description|
+---------|-----------
+-c  |  enable CPU stats (system, user, idle, wait)
+-d  |   enable disk stats (read, write)
+--top-cpu   |  process using most CPU
+--top-mem  |  process consuming the most memory
+--top-oom  |  show process that will be killed by OOM the first
   
   
