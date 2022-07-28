@@ -128,7 +128,7 @@ usr sys idl wai stl|    kill score
 28-07 11:55:34|  1   1  97   0   0|   0     0 |   0     0 | 592   930 |0.88 1.00 0.84|  0   0   0|gnome-termina0.2
 ```
 
-#### To CPU and memory consuming process in a combined format
+#### Top CPU and memory consuming process in a combined format
 
 ```
 root@Tuttu:~# dstat --top-mem --top-cpu
